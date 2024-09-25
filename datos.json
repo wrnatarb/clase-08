@@ -1,0 +1,79 @@
+[
+    {
+        "nombre": "Violeta.wav",
+        "fecha": "2024-01",
+        "signo": "grafico",
+        "foto": "https://apod.nasa.gov/apod/image/0211/terkezi_landsat7.jpg",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "Invasion a la biodiversidad",
+        "fecha": "2024-02",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/b706e84c-4137-4a0d-983e-7d169ccb1250",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "La Rebeldia de los Cuerpos Atravesado",
+        "fecha": "2024-01",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/dd3bd65a-7e06-42a9-bb40-65f2b2de2e44",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "Fanzine",
+        "fecha": "2023-01",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/9b4290d9-affe-41c2-a280-35225627c182",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "Diri",
+        "fecha": "2023-02",
+        "signo": "branding",
+        "foto": "https://github.com/user-attachments/assets/2779a8bb-a1fc-484a-94ed-3cbc9f3b5661",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "CBRE",
+        "fecha": "2024-00",
+        "signo": "grafico",
+        "foto": "https://github.com/user-attachments/assets/9fcc0df2-8c69-4934-b50a-90ddeac7113a",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "Yunus",
+        "fecha": "2023-02",
+        "signo": "Industrial",
+        "foto": "https://github.com/user-attachments/assets/3ff1161f-4e8c-4273-91d3-cb157968f6e4",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "WOOFY",
+        "fecha": "2023-02",
+        "signo": "Industrial",
+        "foto": "https://github.com/user-attachments/assets/2fa7702d-6fc4-4460-8f2c-270e259e12a6",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "BANKI",
+        "fecha": "2023-02",
+        "signo": "Industrial",
+        "foto": "https://github.com/user-attachments/assets/86de866c-0427-4201-8f96-b17c9ecc991f",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "Equita",
+        "fecha": "2024-01",
+        "signo": "servicios",
+        "foto": "https://github.com/user-attachments/assets/9982c648-866c-4585-b8a8-e1b1a6352b49",
+        "github": "https://github.com/wrnatarb"
+    },
+    {
+        "nombre": "Renca Reciclaje",
+        "fecha": "2022-02",
+        "signo": "servicios",
+        "foto": "https://github.com/user-attachments/assets/aaf90c33-018f-4161-ac00-2dad3e36d04f",
+        "github": "https://github.com/wrnatarb"
+    }
+]
