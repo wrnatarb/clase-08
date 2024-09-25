@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Renata Ramos</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <h1>Portafolio Diseño Integral</h1>
+            <h2></h2>
+            <a href="index.html">&larr; VOLVER</a>
+        </header>
+
+        <main></main>
+
+        <script>
+            var x = new URLSearchParams (window.location.search).get('data');
+
+            //unas variables que no varían, que son constantes:
+
+            const autoria = document.querySelector("h2");
+
+            const principal = document.querySelector("main");
+
+            const seleccion = document.querySelector("select");
+
+            const nombre = "Renata Ramos";
+
+            //noten que hoy uso `` y ${}, en lugar de comillas y concatenaciones
+
+            autoria.innerHTML = `Por ${nombre}`;
+
+            //acá voy por el JSON
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/wrnatarb/clase-08/refs/heads/main/datos.json");
+                const data = await consulta.json();
+                console.log(data);
+
+            if(x) { 
+
+                    principal.innerHTML += `<h3> ${data[x].nombre}</h3><p>${data[x].fecha}</p><p>Lorem ipsum.</p><img src="${data[x].foto}">`;
+
+                   
+} else {
+    window.location.href = 'index.html';
+
+}
+}
+            
+
+            astros().catch((error) => console.error(error));
+
+
+            
+        </script>
+    </body>
+</html>
